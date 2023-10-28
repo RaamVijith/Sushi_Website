@@ -4,7 +4,7 @@ This website mainly use HTML, CSS, JavaScript
 ### Weblink: [Live Website](https://raamvijith.github.io/My_Portfolio_Website/)
 ## Some Images:
 <img width="450px;" src="https://github.com/RaamVijith/My_Portfolio_Website/blob/master/src/components/Assets/vijith%20portfolio%20(2).png?raw=true"/>
-<img width="450px;" src="[https://github.com/RaamVijith/My_Portfolio_Website/blob/master/src/components/Assets/vijith%20portfolio%20(3).png?raw=true](https://github.com/RaamVijith/Sushi_Website/blob/master/project%20pic/content1.png?raw=true)"/>
+<img width="450px;" src="https://github.com/RaamVijith/Sushi_Website/blob/master/project%20pic/content1.png?raw=true"/>
 <img width="450px;" src="[https://github.com/RaamVijith/My_Portfolio_Website/blob/master/src/components/Assets/vijith%20portfolio%20(4).png?raw=true](https://github.com/RaamVijith/Sushi_Website/blob/master/project%20pic/content2.png?raw=true)"/>
 <img width="450px;" src="[https://github.com/RaamVijith/My_Portfolio_Website/blob/master/src/components/Assets/vijith%20portfolio%20(5).png?raw=true](https://github.com/RaamVijith/Sushi_Website/blob/master/project%20pic/content3.png?raw=true)"/>
 <img width="450px;" src="[https://github.com/RaamVijith/My_Portfolio_Website/blob/master/src/components/Assets/vijith%20portfolio%20(1).png?raw=true](https://github.com/RaamVijith/Sushi_Website/blob/master/project%20pic/footer.png?raw=true)"/>
