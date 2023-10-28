@@ -1,7 +1,7 @@
 # Sushi Website
 This website mainly use HTML, CSS, JavaScript
 
-### Weblink: [Live Website](https://raamvijith.github.io/My_Portfolio_Website/)
+### Weblink: [Live Website](https://raamvijith.github.io/Sushi_Website/)
 ## Some Images:
 <img width="450px;" src="https://github.com/RaamVijith/Sushi_Website/blob/master/project%20pic/Heade.png?raw=true"/>
 <img width="450px;" src="https://github.com/RaamVijith/Sushi_Website/blob/master/project%20pic/content1.png?raw=true"/>
